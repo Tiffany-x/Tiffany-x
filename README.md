@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Tiffany+Wekesa" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+my+Name+is+Tiffany+Wekesa" />
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
-<p>Management Information Systems graduate from Daystar University</p>
+<p>I'm a Management Information Systems graduate from Daystar University</p>
 <p>🌱 Currently developing the <a href= GEAR-website>GEAR Hub</a> website</p>
 <p>🔭 Proficient in C++, HTML, CSS, SQL, Git and Figma</p>
 <p>📫 You can reach me at tiffany.priscillah@gmail.com</p>
