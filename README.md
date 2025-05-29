@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Inter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello!+👋;+I'm+Tiffany+Wekesa!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+👋;+I'm+Tiffany+Wekesa!" />
 </h1>
 <!--
 **Tiffany-x/Tiffany-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
