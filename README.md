@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Tiffany+Wekesa" />
 </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
 <p>I'm a Management Information Systems graduate from Daystar University</p>
 <p></p>Currently working on the <a href= GEAR-website>GEAR Hub</a> website</p>
