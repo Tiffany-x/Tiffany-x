@@ -8,10 +8,10 @@
 <p>🔭 Proficient in C++, HTML, CSS, SQL, Git and Figma</p>
 <p>📫 You can reach me at tiffany.priscillah@gmail.com</p>
 <p>😄 Open to collaborations and work</p>
-<p>⚡ I love music, watching anime and gaming</p>
+<p>⚡ I love listening to music, watching anime and gaming</p>
 
 <a href="https://www.linkedin.com/in/tiffany-wekesa/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height=40px/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height=100px/>
 </a>
 <!--
 **Tiffany-x/Tiffany-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
