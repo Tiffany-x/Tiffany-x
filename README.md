@@ -1,6 +1,9 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+👋+I'm+Tiffany+Wekesa!" />
 </h1>
+
+I'm a Management Information Systems graduate from Daystar University
+Currently working on the <a href= gear.nyxsolutions.co.ke>GEAR Hub</a> website
 <!--
 **Tiffany-x/Tiffany-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
