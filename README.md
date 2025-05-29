@@ -11,7 +11,7 @@
 <p>⚡ I love music, watching anime and gaming</p>
 
 <a href="https://www.linkedin.com/in/tiffany-wekesa/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height=40px/>
 </a>
 <!--
 **Tiffany-x/Tiffany-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
