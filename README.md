@@ -3,7 +3,7 @@
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
-<p>I'm a Management Information Systems graduate from Daystar University</p>
+<p>I'm a software developer based in Nairobi</p>
 <p>🌱 Currently developing the <a href= "https://github.com/Tiffany-x/GEAR-Website">GEAR Hub</a> website</p>
 <p>🔭 Proficient in C++, HTML, CSS, SQL, Git and Figma</p>
 <p>📫 You can reach me at tiffany.priscillah@gmail.com</p>
